@@ -1,1 +1,1 @@
-# ActiveBox - верстка мкета Landing Page
+# ActiveBox - верстка макета Landing Page
